@@ -1,0 +1,22 @@
+{
+  "name": "javascript-stack-trace-parsing-example",
+  "version": "1.0.0",
+  "description": "An example of parsing a stack trace in JavaScript.",
+  "main": "my test script.js",
+  "scripts": {
+    "start": "node \"my test script.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleydavis/javascript-stack-trace-parsing-example.git"
+  },
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/javascript-stack-trace-parsing-example/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/javascript-stack-trace-parsing-example#readme",
+  "dependencies": {
+    "stacktrace-parser": "^0.1.4"
+  }
+}
