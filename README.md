@@ -1,4 +1,4 @@
-# stack-trace-example
+# javascript-stack-trace-parsing-example
 
 An example of parsing a stack trace in JavaScript using [stacktrace-parser](https://www.npmjs.com/package/stacktrace-parser).
 
